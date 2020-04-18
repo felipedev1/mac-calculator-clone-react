@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mac-calculator-clone/static/css/main.39140374.chunk.css",
-    "main.js": "/mac-calculator-clone/static/js/main.345dd834.chunk.js",
-    "main.js.map": "/mac-calculator-clone/static/js/main.345dd834.chunk.js.map",
-    "runtime-main.js": "/mac-calculator-clone/static/js/runtime-main.f771bb26.js",
-    "runtime-main.js.map": "/mac-calculator-clone/static/js/runtime-main.f771bb26.js.map",
-    "static/js/2.42d7e0b9.chunk.js": "/mac-calculator-clone/static/js/2.42d7e0b9.chunk.js",
-    "static/js/2.42d7e0b9.chunk.js.map": "/mac-calculator-clone/static/js/2.42d7e0b9.chunk.js.map",
-    "index.html": "/mac-calculator-clone/index.html",
-    "precache-manifest.74e2e57812b75375bec535e05f7cf0ee.js": "/mac-calculator-clone/precache-manifest.74e2e57812b75375bec535e05f7cf0ee.js",
-    "service-worker.js": "/mac-calculator-clone/service-worker.js",
-    "static/css/main.39140374.chunk.css.map": "/mac-calculator-clone/static/css/main.39140374.chunk.css.map",
-    "static/js/2.42d7e0b9.chunk.js.LICENSE.txt": "/mac-calculator-clone/static/js/2.42d7e0b9.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/mac-calculator-clone/static/media/RobotoMono-Thin.288302ea.ttf"
+    "main.css": "/mac-calculator-clone-react/static/css/main.df22430c.chunk.css",
+    "main.js": "/mac-calculator-clone-react/static/js/main.b9069478.chunk.js",
+    "main.js.map": "/mac-calculator-clone-react/static/js/main.b9069478.chunk.js.map",
+    "runtime-main.js": "/mac-calculator-clone-react/static/js/runtime-main.c31591e8.js",
+    "runtime-main.js.map": "/mac-calculator-clone-react/static/js/runtime-main.c31591e8.js.map",
+    "static/js/2.42d7e0b9.chunk.js": "/mac-calculator-clone-react/static/js/2.42d7e0b9.chunk.js",
+    "static/js/2.42d7e0b9.chunk.js.map": "/mac-calculator-clone-react/static/js/2.42d7e0b9.chunk.js.map",
+    "index.html": "/mac-calculator-clone-react/index.html",
+    "precache-manifest.e7a5c3f764ac82303d78fa6aa8c8118d.js": "/mac-calculator-clone-react/precache-manifest.e7a5c3f764ac82303d78fa6aa8c8118d.js",
+    "service-worker.js": "/mac-calculator-clone-react/service-worker.js",
+    "static/css/main.df22430c.chunk.css.map": "/mac-calculator-clone-react/static/css/main.df22430c.chunk.css.map",
+    "static/js/2.42d7e0b9.chunk.js.LICENSE.txt": "/mac-calculator-clone-react/static/js/2.42d7e0b9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mac-calculator-clone-react/static/media/RobotoMono-Thin.288302ea.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f771bb26.js",
+    "static/js/runtime-main.c31591e8.js",
     "static/js/2.42d7e0b9.chunk.js",
-    "static/css/main.39140374.chunk.css",
-    "static/js/main.345dd834.chunk.js"
+    "static/css/main.df22430c.chunk.css",
+    "static/js/main.b9069478.chunk.js"
   ]
 }
